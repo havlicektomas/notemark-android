@@ -10,6 +10,7 @@ private val LightColorScheme = lightColorScheme(
     secondary = NoteMarkBlueOpacity10,
     background = Color.White,
     surface = LightGray,
+    surfaceVariant = DarkGrayOpacity12,
     onPrimary = Color.White,
     onSecondary = DarkGray,
     onBackground = DarkGray,
