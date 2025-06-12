@@ -63,6 +63,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.adaptive.android)
+    implementation(libs.androidx.datastore.preferences)
 
     // Splashscreen
     implementation(libs.androidx.core.splashscreen)
