@@ -7,7 +7,7 @@ import androidx.compose.ui.graphics.Color
 
 private val LightColorScheme = lightColorScheme(
     primary = NoteMarkBlue,
-    secondary = NoteMarkBlueOpacity10,
+    secondary = NoteMarkLightBlue,
     background = Color.White,
     surface = LightGray,
     surfaceVariant = DarkGrayOpacity12,
